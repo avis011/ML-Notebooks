@@ -16,4 +16,4 @@ clf.fit(features,label)
 
 pred = clf.predict([[13,1,1,1]])
 
-print(pred)
+print(pred)#prints
